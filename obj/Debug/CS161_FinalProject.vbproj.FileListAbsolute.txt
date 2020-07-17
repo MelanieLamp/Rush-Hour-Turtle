@@ -1,0 +1,275 @@
+D:\CS161\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+D:\CS161\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+D:\CS161\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+D:\CS161\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+D:\CS161\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+D:\CS161\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+D:\CS161\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+D:\CS161\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+D:\CS161\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+D:\CS161\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+D:\CS161\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+D:\CS161\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+E:\CS161_FinalProject - Backup Plan\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+E:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+D:\CS161_FinalProject Real Thing\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+E:\CS161\CS161_FinalProject Everything Except Sound\CS161_FinalProject Definently\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+C:\Users\Mark\Desktop\Class Anim\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+C:\Users\cjsch\Downloads\CS161_FinalProject_2.1\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.frmSplash.resources
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+C:\Users\Mark\Desktop\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.frmSplash.resources
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+D:\CS161\CS161_FinalProject_Consolidated\CS161_FinalProject_Latest\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.frmSplash.resources
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+C:\Users\cjsch\Downloads\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+E:\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.frmSplash.resources
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.frmSplash.resources
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+E:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.frmSplash.resources
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+D:\CS161_FinalProject_EVERYTHING - Copy\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.frmSplash.resources
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+D:\CS161_FinalProject_COMPLETED\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe.config
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.exe
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.pdb
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\CS161_FinalProject.xml
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.ResolveComReference.cache
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.FinalProject.resources
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.frmSplash.resources
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.Resources.resources
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.vbproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.exe
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.xml
+C:\Users\Mark\Desktop\Moonzey\Winter 2018\Rush Hour Turtle\CS161_Final\CS161_FinalProject\CS161_FinalProject\CS161_FinalProject\obj\Debug\CS161_FinalProject.pdb
