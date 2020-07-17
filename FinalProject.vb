@@ -1,17 +1,17 @@
 ﻿'==============================================================================
-'Project:           CS161_FinalProject
-'Title:             Rush Hour Turtle 
+'Project:           Visual Basic video game project 
+'Title:             Turtle Escape
 'File Name:         FinalProject.exe, FinalProject.vb, FinalProject.sln
-'Date Completed:    3/12/2018
+'Date Completed:    3/12/2020
 '
-'Author:            Winners (Christopher Schmitt, Melanie Lamp, Andy Park, 
-'                            Mitch Fisher)
-'Class:             CS161 Winter 2018
+'Authors:            Melanie Lamp, Christopher Schmitt, Andy Park, 
+'                    and Mitch Fisher
+'Course:             CS161 Winter 2020
 '
-'Description:       The game's objective is to reach the end or finish line
-'                   while avoiding the cars and alligator. You're also encouraged
+'Description:       The objective is to reach the end of the finish line
+'                   while avoiding the cars and alligators. You're also encouraged
 '                   to finish in the fastest time possible for a maximum score. 
-'                   There's two stages: 1st the BG scrolls and the user must
+'                   There's two stages: 1st the background scrolls and the user must
 '                   avoid obstacles coming towards them, but their ability to 
 '                   move backwards is inhibited. In the second Stage, the BG is
 '                   stationary and the user must cross 3 lanes with obstacles
