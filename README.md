@@ -10,8 +10,6 @@ database back-end to track player scores.
 
 # ===============================
 
-## visual basic.net video game project 
-
 Authors: Melanie Lamp, Christopher Schmitt, Andy Park and Mitch Fisher
 
 The objective of the game is to reach the end of the finish line while avoiding obstacles such as cars and alligators. 
