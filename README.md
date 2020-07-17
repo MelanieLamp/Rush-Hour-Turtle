@@ -1,50 +1,47 @@
 
 # Rush Hour Turtle
- ## Welcome to Rush Hour Turtle! This program was created using Visual Basic and deployed with an 
- ## SQLite database backend to record player scores  on a leaderboard. 
+Welcome to Rush Hour Turtle! This web application is a project created dedicated team of 
+undergraduate students using Microsoft Visual Studio, Visual Basic.NET 
+and was deployed with an SQLite3 database back-end to track player scores.
  
- ![Rush Hourt Turtle loading screen](https://imgur.com/PABflBd)
- 
-# ==============================================================================
-# Rush Hour Turtle
+ ![Rush Hourt Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
+ [Rush Hourt Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
+# ====================================
+
 ## visual basic.net video game project 
 
-File Names:        FinalProject.exe, FinalProject.vb, FinalProject.sln
-Last updated:      3/12/2020
-
-Authors:            Melanie Lamp, Christopher Schmitt, Andy Park, 
+Authors: Melanie Lamp, Christopher Schmitt, Andy Park, 
                     and Mitch Fisher
-Course:             CS161 Winter 2020
 
-Description:        The objective is to reach the end of the finish line
-                    while avoiding the cars and alligators. You're also encouraged
-                    to finish in the fastest time possible for a maximum score. 
-                    There's two stages: 1st the background scrolls and the user must
-                    avoid obstacles coming towards them, but their ability to 
-                    move backwards is inhibited. In the second Stage, the BG is
-                    stationary and the user must cross 3 lanes with obstacles
-                    as fast as possible.The score is determined by taking the 
-                    maximum score (arbitrary) then subtracting from that the time 
-                    the user took to cross stage 1 and stage 2, and then adding
-                    to that the total amount of lives left multiplied by our life
-                    value. 
+The objective of the game is to reach the end of the finish line while avoiding obstacles such as cars and alligators. 
+You're encouraged to finish in the fastest time possible for a greater numerical score. There's two stages of the game: 
+First the background will force scroll to the right and the turtle must avoid obstacles coming towards it. The turtles' ability to move 
+backwards is inhibited. In the second Stage, the background is kept stationary and the turtle must cross three lanes of traffic as 
+fast as possible. The ending score is determined by taking the highest score and then subtracting that from the time
+the turtle took to cross stage one and stage two. Then by adding to that the total amount of lives left multiplied by our life value,
+the final score is calculated. The score is then recorded to database that refers to the same score per game. When the game is closed
+the database refreshes and new highscores can be recorded.
                     
-# =============================================================================
+# ===============================================
 
  ![Turtle crossing dangerous roads and rivers](https://imgur.com/fEkrMPt)
+ ![Imgur](https://i.imgur.com/fEkrMPt.jpg)
  
-# =============================================================================
+# ===============================================
 
-Known Bugs:       * 1. Turtle progress can exceed the river before the final 
-                    part is loaded. Currently turtle is moved back to start of
-                    water. 
-                   * 2. Turtle does Not change animation When reaching the
-                    the water. 
-                   * 3. When Collision with obstacles is detected, will sometimes
-                    respawn the turtle in front of a car with no time to avoid
-                   * 4. If you don't finish in a reasonable time score could
-                    potential be negative and music could stop playing. Although
-                    game is not designed to require the time it would take to
-                    get a negative score.
-# ==============================================================================
+###Known Issues:
+Turtle progress can exceed the river before the final 
+part is loaded. Currently turtle is moved back to start of the water. 
+
+Turtle does Not change animation When reaching the the water. 
+
+When Collision with obstacles is detected, will sometimes respawn 
+the turtle in front of a car with no time to avoid
+
+If you don't finish in a reasonable time score could
+potential be negative and music could stop playing. Although
+game is not designed to require the time it would take to
+get a negative score.
+
+# ================================================
 
