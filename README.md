@@ -1,5 +1,3 @@
-# ===============================
-
 # Rush Hour Turtle
 
 Welcome to Rush Hour Turtle! This web application is a personal project 
@@ -8,7 +6,7 @@ Microsoft Visual Studio, Visual Basic.NET and was deployed with an SQLite3
 database back-end to track player scores.
 # ===============================
 
- [Rush Hourt Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
+![Rush Hourt Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
 
 # ===============================
 
@@ -29,7 +27,7 @@ the database refreshes and new highscores can be recorded.
                     
 # =================================
 
-[Turtle crossing dangerous roads and rivers](https://i.imgur.com/fEkrMPt.jpg)
+![Turtle crossing dangerous roads and rivers](https://i.imgur.com/fEkrMPt.jpg)
  
 # ==================================
 
