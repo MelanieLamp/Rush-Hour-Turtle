@@ -1,8 +1,8 @@
 # Rush Hour Turtle
 
 Welcome to Rush Hour Turtle! This web application is a personal project 
-created by a dedicated team of undergraduate students. It was developed using 
-Microsoft Visual Studio, Visual Basic.NET and was deployed with an SQLite3 
+created </br>by a dedicated team of undergraduate students. It was developed using 
+Microsoft Visual Studio,</br> Visual Basic.NET and was deployed with an SQLite3 
 database back-end to track player scores.
 
 ![Rush Hourt Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
