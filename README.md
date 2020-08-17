@@ -26,7 +26,7 @@ the database refreshes and new highscores can be recorded.
 Turtle progress can exceed the river before the final 
 part is loaded. Currently turtle is moved back to start of the water. 
 
-Turtle does Not change animation When reaching the the water. 
+Turtle does not change animation When reaching the water. 
 
 When Collision with obstacles is detected, will sometimes respawn 
 the turtle in front of a car with no time to avoid
