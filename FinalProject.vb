@@ -2,11 +2,11 @@
 'Project:           Visual Basic video game project 
 'Title:             Turtle Escape
 'File Name:         FinalProject.exe, FinalProject.vb, FinalProject.sln
-'Date Completed:    3/12/2020
+'Date Completed:    3/12/2019
 '
 'Authors:            Melanie Lamp, Christopher Schmitt, Andy Park, 
 '                    and Mitch Fisher
-'Course:             CS161 Winter 2020
+'Course:             CS161 Winter 2019
 '
 'Description:       The objective is to reach the end of the finish line
 '                   while avoiding the cars and alligators. You're also encouraged
