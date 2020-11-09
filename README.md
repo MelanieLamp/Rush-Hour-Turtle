@@ -23,7 +23,7 @@ the database refreshes and new highscores can be recorded.
 ![Turtle crossing dangerous roads and rivers](https://i.imgur.com/fEkrMPt.jpg)
 
 ### Known Issues:
-Turtle progress can exceed the river before the final 
+Player progress can exceed the river before the final 
 part is loaded. Currently turtle is moved back to start of the water. 
 
 Turtle does not change animation When reaching the water. 
