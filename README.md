@@ -6,7 +6,7 @@
 
 <br>
 
-A dynamic, award-winning 2D side-scrolling game developed in Microsoft Visual Studio using VB.NET, featuring real-time obstacles, strict collision detection, and an SQLite3 database service to persist player scores.
+Rush Hour Turtle is an award-winning, dynamic 2D side-scrolling game built in Microsoft Visual Studio using VB.NET. The gameplay challenges players to navigate a turtle through complex real-time obstacle courses featuring traffic lanes and a river segment before reaching a checkered finish line. It incorporates an algorithmic score tracking module that calculates performance based on clear times and remaining player lives, dynamically syncing results to a local SQLite3 database layer.
 
 
 ## <-- Key Gameplay Features -->
