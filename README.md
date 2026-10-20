@@ -12,7 +12,7 @@ Rush Hour Turtle is an award-winning, dynamic 2D side-scrolling game built in Mi
 ## <-- Key Gameplay Features -->
 <br>
 
-**Award-Winning Gameplay Mechanics**: Awarded first place in a 2D game development competition for its multi-stage design and responsive real-time mechanics. Integrates local SQLite3 database services to handle session-based score recording and leaderboard persistence. Features a multi-tiered final score algorithm that dynamically factors in stage clear times and remaining player lives before saving data.
+Awarded first place in a 2D game development competition for its multi-stage design and responsive real-time mechanics. Integrates local SQLite3 database services to handle session-based score recording and leaderboard persistence. Features a multi-tiered final score algorithm that dynamically factors in stage clear times and remaining player lives before saving data.
 
 <br>
 
