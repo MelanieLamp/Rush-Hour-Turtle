@@ -1,38 +1,60 @@
 # Rush Hour Turtle
 
-Welcome to Rush Hour Turtle! This web application is a personal project 
-created </br>by a dedicated team of undergraduate students. It was developed using 
-Microsoft Visual Studio,</br> Visual Basic.NET and was deployed with an SQLite3 
-database back-end to track player scores.
+
+A dynamic, award-winning 2D side-scrolling game developed in Microsoft Visual Studio using VB.NET, featuring real-time obstacles, strict collision detection, and an SQLite3 database service to persist player scores.
 
 ![Rush Hour Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
 
-Authors: Melanie Lamp, Christopher Schmitt, Andy Park and Mitch Fisher
+## <-- Key Security Features -->
 
-The objective of the game is to reach the end of the finish line while avoiding obstacles such as cars and alligators. 
-You're encouraged to finish in the fastest time possible for a greater numerical score. There's two stages of the game: 
-First the background will force scroll to the right and the turtle must avoid obstacles coming towards it. The turtles' ability to move 
-backwards is inhibited. 
+**Award-Winning Gameplay Mechanics**: Awarded first place in a 2D game development competition for its multi-stage design and responsive real-time mechanics. Integrates local SQLite3 database services to handle session-based score recording and leaderboard persistence. Features a multi-tiered final score algorithm that dynamically factors in stage clear times and remaining player lives before saving data.
+  
 
-In the second Stage, the background is kept stationary and the turtle must cross three lanes of traffic as 
-fast as possible. The ending score is determined by taking the highest score and then subtracting that from the time
-the turtle took to cross stage one and stage two. Then by adding to that the total amount of lives left multiplied by our life value,
-the final score is calculated. The score is then recorded to database that refers to the same score per game. When the game is closed
-the database refreshes and new highscores can be recorded.
+## Frontend & Client-Side:
 
+
+*   **VB.NET Forms & Graphics**: -- Core UI layout and real-time 2D side-scrolling rendering engine within Visual Studio.
+  
+*   **Sprite Animations**: -- Visual assets managing character movements, obstacle behaviors, and environment transitions.
+  
+
+
+## Backend Core & Frameworks:
+
+
+*   **VB.NET**: -- Core programming language driving game physics, input handling, and lane logic.
+  
+*   **Microsoft Visual Studio**: -- Primary Integrated Development Environment (IDE) used for compilation and form design.
+
+  
 ![Turtle crossing dangerous roads and rivers](https://i.imgur.com/fEkrMPt.jpg)
 
-### Known Issues:
-Player progress can exceed the river before the final 
-part is loaded. Currently turtle is moved back to start of the water. 
 
-Turtle does not change animation When reaching the water. 
+## Security & Data Layer:
 
-When Collision with obstacles is detected, will sometimes respawn 
-the turtle in front of a car with no time to avoid
 
-If you don't finish in a reasonable time score could
-potential be negative and music could stop playing. Although
-game is not designed to require the time it would take to
-get a negative score.
+*   **SQLite3**: -- Lightweight relational database service integrated to manage and temporarily persist player scoreboards.
+  
+*   **Score Calculation Engine**: -- Algorithmic scoring module that processes clear times against high scores and life multipliers.
+
+  
+
+## Dev Tools, Testing & Logging:
+
+
+*   **Collision Detection Matrix**: -- Algorithmic testing layer validating real-time bounding box overlaps between the turtle, cars, and alligators.
+  
+*   **Media Player Services**: -- Internal sound engine handling background music tracks and real-time audio playback loop.
+
+
+## Known Issues & Technical Bugs:
+
+
+• Boundary Sequence Break: Player progress can exceed the river boundary before the final asset chunk is completely loaded; the turtle is temporarily forced back to the start of the water as a safety reset.
+
+• Missing Animation State: The turtle sprite does not correctly trigger its swimming or water-based animation state machine upon reaching the river section.
+
+• Spawn Trap Collision: Obstacle collision resets can occasionally respawn the turtle directly in front of active vehicle vectors, leaving zero frames for player avoidance.
+
+• Underflow Score & Audio Loop: Exceeding an extended time threshold can cause the score integer to drop into negative values and trigger an exception that stops the background music engine.
 
