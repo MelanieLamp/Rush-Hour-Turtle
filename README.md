@@ -5,7 +5,7 @@ created </br>by a dedicated team of undergraduate students. It was developed usi
 Microsoft Visual Studio,</br> Visual Basic.NET and was deployed with an SQLite3 
 database back-end to track player scores.
 
-![Rush Hourt Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
+![Rush Hour Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
 
 Authors: Melanie Lamp, Christopher Schmitt, Andy Park and Mitch Fisher
 
