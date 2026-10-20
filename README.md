@@ -5,7 +5,7 @@ A dynamic, award-winning 2D side-scrolling game developed in Microsoft Visual St
 
 ![Rush Hour Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
 
-## <-- Key Security Features -->
+## <-- Key Gameplay Features -->
 
 **Award-Winning Gameplay Mechanics**: Awarded first place in a 2D game development competition for its multi-stage design and responsive real-time mechanics. Integrates local SQLite3 database services to handle session-based score recording and leaderboard persistence. Features a multi-tiered final score algorithm that dynamically factors in stage clear times and remaining player lives before saving data.
   
