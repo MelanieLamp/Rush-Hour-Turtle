@@ -3,6 +3,7 @@
 🏆 **1st Place Winner** – 2D Game Development Competition  
 
 An award-winning, dynamic 2D side-scrolling obstacle game built with **VB.NET** in **Microsoft Visual Studio**. Players navigate a turtle through high-stakes obstacle courses—including chaotic highway traffic lanes and an alligator-infested river segment—to safely cross the checkered finish line.
+<br>
 
 ![Rush Hour Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
 
@@ -12,11 +13,9 @@ An award-winning, dynamic 2D side-scrolling obstacle game built with **VB.NET** 
 * **Persistent Leaderboards:** Integrates local SQLite3 relational services for reliable session score tracking.
 * **Dynamic Scoring Engine:** Uses a multi-tiered formula factoring in raw stage clear times and remaining player lives via multi-tier multipliers.
 * **Real-Time Sound System:** Built-in loop audio matrix managing active background soundtracks and event sound effects.
+<br>
 
-
-<p align="center">
-  ![Turtle crossing dangerous roads and rivers](https://i.imgur.com/fEkrMPt.jpg)
-</p>
+![Turtle crossing dangerous roads and rivers](https://i.imgur.com/fEkrMPt.jpg)
 
 ## 🛠️ Tech Stack & Architecture
 
