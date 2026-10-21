@@ -7,7 +7,7 @@ An award-winning, dynamic 2D side-scrolling obstacle game built with **VB.NET** 
 <br>
 
 <p align="center">
-  <img src="image_nHwqDH.png" alt="Rush Hour Turtle Loading Screen" width="600"/>
+  ![Rush Hour Turtle loading screen](https://i.imgur.com/PABflBd.jpg)
 </p>
 
 ## 🚀 Key Gameplay Features
@@ -20,7 +20,7 @@ An award-winning, dynamic 2D side-scrolling obstacle game built with **VB.NET** 
 <br>
 
 <p align="center">
-  <img src="image_gaVMVF.png" alt="Gameplay: Dangerous Roads and Rivers" width="750"/>
+  ![Turtle crossing dangerous roads and rivers](https://i.imgur.com/fEkrMPt.jpg)
 </p>
 
 ## 🛠️ Tech Stack & Architecture
